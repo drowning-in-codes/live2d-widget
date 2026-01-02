@@ -5,7 +5,7 @@
 	cursor: pointer;
 	display: flex;
 	justify-content: flex-end;
-	left: 0;
+	right: 0;
 	margin-left: -100px;
 	padding: 5px;
 	position: fixed;
@@ -28,7 +28,7 @@
 
 #waifu {
 	bottom: -500px;
-	left: 0;
+	right: 0;
 	position: fixed;
 	transform: translateY(25px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
